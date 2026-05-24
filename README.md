@@ -88,7 +88,7 @@ E:\WinUnlocker.exe
 ### Шаги
 ```
 1. Клонируй репозиторий:
-   git clone https://github.com/ТВО_ИМЯ/WinUnlocker.git
+   git clone https://github.com/UltimateHatred/WinUnlocker.git
 
 2. Открой Visual Studio → File → Open → Folder
    Выбери папку с проектом
