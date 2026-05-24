@@ -136,6 +136,6 @@ WinUnlocker работает с реестром, процессами и слу
 
 ## 👤 Автор
 
-UltimateHatred
+000Ultimate
 
 Сделано с ❤️ и C++
