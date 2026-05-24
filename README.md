@@ -35,10 +35,7 @@
 
 ## 🖥️ Скриншот
 
-```
-<img width="968" height="507" alt="image" src="https://github.com/user-attachments/assets/c424bc73-a084-4141-87e1-e11855336121" />
-
-```
+<img width="975" height="510" alt="WinUnlocker Screenshot" src="https://github.com/user-attachments/assets/810ebb18-83af-4950-bb4c-6293828a6e40" />
 
 ---
 
@@ -118,8 +115,8 @@ WinUnlocker работает с реестром, процессами и слу
 
 **Хочешь убедиться что программа безопасна?**
 - Исходный код полностью открыт — можешь проверить каждую строку
-- Собери `.exe` самостоятельно из исходников (инструкция ниже)
-- Проверь файл на [VirusTotal](https://www.virustotal.com)
+- Собери `.exe` самостоятельно из исходников (инструкция выше)
+- Проверь файл на [VirusTotal](https://www.virustotal.com) — результат: **3/71** (ложные срабатывания)
 
 ---
 
