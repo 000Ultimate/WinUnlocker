@@ -36,23 +36,8 @@
 ## 🖥️ Скриншот
 
 ```
-  System : Windows 6.2 Build 9200
-  Host   : DESKTOP-XXXXX   User: user
-  Rights : Administrator
+<img width="968" height="507" alt="image" src="https://github.com/user-attachments/assets/c424bc73-a084-4141-87e1-e11855336121" />
 
-  ┌─────────────────────────────────────────────┐
-  │              MAIN MENU                      │
-  ├─────────────────────────────────────────────┤
-  │  1. Task Manager        (view / kill processes) │
-  │  2. Autorun Manager     (startup entries)       │
-  │  3. Restrictions        (unlock Task Mgr...)    │
-  │  4. Registry Cleaner    (broken entries)        │
-  │  5. Services Manager    (Windows services)      │
-  │  6. File Manager        (browse / delete files) │
-  │  0. Exit                                        │
-  └─────────────────────────────────────────────┘
-
-  > Choose option: _
 ```
 
 ---
