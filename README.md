@@ -42,19 +42,19 @@
 ## 🚀 Использование
 
 ### Обычный запуск
-Правый клик на `WinUnlocker.exe` → **Запуск от имени администратора**
+Правый клик на `ConsoleUnlocker.exe` → **Запуск от имени администратора**
 
 ### Запуск из WinRE (Recovery Environment)
 ```
 1. Загрузи Windows в режим восстановления
 2. Troubleshoot → Advanced Options → Command Prompt
 3. Перейди на диск с файлом и запусти:
-   D:\WinUnlocker.exe
+   D:\ConsoleUnlocker.exe
 ```
 
 ### Запуск с загрузочной флешки (WinPE)
 ```
-E:\WinUnlocker.exe
+E:\ConsoleUnlocker.exe
 ```
 
 ---
